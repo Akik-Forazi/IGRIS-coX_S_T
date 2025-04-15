@@ -106,6 +106,14 @@ I ain't giving you sh*t.
 
 ---
 
+## About This Project
+
+This project was built entirely on a mobile phone — using an entry-level device with limited memory and no GPU.
+From tokenizer training to model design and dataset encoding, all stages were developed and executed in a constrained environment.
+Instead of relying on server-grade resources, this approach focuses on optimization, batching, and creative solutions to push the boundaries of what’s possible on minimal hardware.
+
+> “Sometimes you don’t need a supercomputer. Just a reason.”
+
 ## 👤 Built By:
 
 **Akik Forazi**  
