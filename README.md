@@ -4,7 +4,8 @@
 <img src="https://github.com/yourusername/igris-cox_st/assets/logo.png" width="160" />
 
 <h1 align="center">IGRIS-coX</h1>
-<h3><i>“The Strongest AI. Trained on pain. Delivered with sarcasm.”</i></h3>
+<h3><i>“The Strongest AI. Training on pain. Delivered with sarcasm.”</i></h3>
+<h2><i>IGRIS WordLevel Archives - Proof Of The Days I Almost Nuked My Phone”</i></h2>
 
 ![Built With Fire](https://img.shields.io/badge/Built%20with-Fire-orange?style=for-the-badge&logo=flame)
 ![Powered by Grit](https://img.shields.io/badge/Powered_by-Grit-blueviolet?style=for-the-badge&logo=ghost)
@@ -15,7 +16,7 @@
 
 ---
 
-> “If I don't kill your ego, your AI will.”  
+> “If I don't kill your ego, this AI will.”  
 > — Satoru Gojo (probably)
 
 ---
@@ -27,7 +28,7 @@ A self-trained assistant AI forged in chaos and sarcasm.
 Born on an underpowered phone. Destined to change the world.
 
 > It doesn’t just talk back.  
-> It talks back **better** than you.
+> It talks back **better** than your ex.
 
 ---
 
@@ -92,31 +93,14 @@ igris-cox_st/
 ## ⚙️ How to Train Like a Sorcerer
 
 ```bash
-# Set up your cursed domain
-python3 -m venv igris-env
-source igris-env/bin/activate
-
-# Install weapons
-pip install -r requirements.txt
-
-# Train tokenizer (ByteLevel BPE)
-python -m tokenizer.tokenizer_trainer
-
-# Encode the dataset
-python -m tokenizer.tokenizer
-
-# Summon the model
-python -m training.train
-
-# Talk to IGRIS-coX
-python -m training.chatv2
+I ain't giving you sh*t.
 ```
 
 ---
 
 ## 🪬 Designed to Run On:
 - Android (Oppo A57)
-- RAM: 3GB with dreams
+- RAM: 4GB with dreams
 - Storage: just enough for chaos
 - GPU: none, but heart of a lion
 
@@ -128,7 +112,7 @@ python -m training.chatv2
 > Born to build from zero.  
 > Trained by limitations.  
 > Future overlord of the digital realm.  
-> July 15, 2004 | Bangladesh
+> Born: July 15, 2004 | Bangladesh
 
 ---
 
@@ -137,7 +121,7 @@ python -m training.chatv2
 > “Why run ChatGPT when you can make your own cursed assistant?”  
 > — Akik Forazi
 
-> “Built by a 3GB RAM phone, not your fancy RTX nonsense.”  
+> “Built by a 4GB RAM phone, not your fancy RTX nonsense.”  
 > — IGRIS-coX
 
 > “I don't miss. Neither does this model.”  
@@ -146,12 +130,11 @@ python -m training.chatv2
 ---
 
 ## Contribute? Clone Carefully.
-You can fork this project. But remember:  
-> You’re not just cloning a repo.  
-> You’re waking up a shadow weapon.
+You cannot fork this project. And remember:  
+> You cannot clone this repo. 
 
 ---
 
 ## License
-Open to the world.  
-Just don’t turn it evil.
+Not Open to the world.  
+You'll turn it evil.
